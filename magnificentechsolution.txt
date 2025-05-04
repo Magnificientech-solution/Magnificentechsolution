@@ -1,0 +1,47 @@
+
+# MagnificenTech Solution Website
+
+## File Structure
+- index.html 
+- audit.html
+- style.css
+- script.js
+- logo.svg
+
+## HTML Files
+
+### index.html
+```html
+<!DOCTYPE html>
+<html lang="en">
+<!-- Content from index.html -->
+[Content of index.html]
+</html>
+```
+
+### audit.html
+```html
+<!DOCTYPE html>
+<html lang="en">
+<!-- Content from audit.html -->
+[Content of audit.html]
+</html>
+```
+
+### style.css
+```css
+/* Content from style.css */
+[Content of style.css]
+```
+
+### script.js
+```javascript
+/* Content from script.js */
+[Content of script.js]
+```
+
+### logo.svg
+```svg
+/* Content from logo.svg */
+[Content of logo.svg]
+```
