@@ -1,0 +1,118 @@
+1. LANDING PAGE / HOME
+Goal: Instantly communicate what MagnificenTech does and establish credibility.
+
+Key Requirements:
+Hero Section:
+
+Company tagline: "Digital Solutions that Scale with Your Business."
+
+Call to action (CTA): “Get a Free IT Audit” or “Book a Consultation”
+
+Background image/video: modern tech or business workflow animation
+
+Quick Intro/About: One-liner about MagnificenTech
+
+“A full-stack IT consulting firm delivering custom software, ERP, and AI-powered solutions globally.”
+
+Services Overview: Quick 3-column layout linking to Service page
+
+Why Choose Us: Unique selling points (Agile, AI-driven, Business-focused, White-label ready)
+
+Logos of Tools/Tech used: MongoDB, Render, GitHub, Replit, AI
+
+Testimonials snippet (scrolling)
+
+Contact CTA: Let’s talk tech—contact us
+
+2. ABOUT US PAGE
+Goal: Build trust and authority by showing the firm's story, mission, and leadership.
+
+Key Requirements:
+Company Overview: Mission, Vision, Brief History
+
+Founder's Note (with a photo): Emphasize the BA expertise
+
+What Makes Us Different: AI-powered devs, agile delivery, startup-friendly
+
+Timeline/Infographic: How we’re scaling over 5 years
+
+Partners & Tools: List white-label partners, technologies
+
+3. SERVICE OFFERING PAGE
+Goal: Explain services in detail and provide CTAs to get in touch or book a discovery call.
+
+Key Requirements:
+Custom Software Development
+
+ERP System Development & Deployment
+
+Cloud Migration & Infrastructure Setup
+
+Business Process Improvement & Automation
+
+AI-Powered IT Solutions & Tech Consulting
+
+White Label Services for Agencies/Consultants
+
+Each service should include:
+
+Pain points solved
+
+Benefits
+
+Case examples (with link to case studies page)
+
+CTA: Let’s build something great
+
+4. TESTIMONIALS & CASE STUDIES PAGE
+Goal: Prove success and build credibility through real results.
+
+Key Requirements:
+Client Testimonials:
+
+Name (optional), industry, quote, and rating
+
+Include video/audio snippets if available
+
+Case Studies (as blog-like tiles or accordion):
+
+Title
+
+Problem → Solution → Results
+
+Tech stack used
+
+CTA: See what we can do for your business
+
+5. CONTACT US PAGE
+Goal: Capture leads and offer clear communication channels.
+
+Key Requirements:
+Contact Form:
+
+Name, Company, Email, Service Needed, Message
+
+Schedule a Call (Embed Calendly or similar)
+
+Email: e.g. hello@magnificentech.com
+
+Phone Number (optional for now)
+
+Social Links: LinkedIn, Instagram, etc.
+
+Map/Location (optional)
+
+Other General Requirements
+Responsive Design: Desktop + Mobile
+
+Professional Fonts and Color Palette: Blue, white, black, gold accents
+
+Footer on All Pages:
+
+Quick links
+
+Privacy Policy
+
+Terms & Conditions
+
+Contact info
